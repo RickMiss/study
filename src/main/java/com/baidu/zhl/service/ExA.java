@@ -16,7 +16,7 @@ public class ExA {
     }
     public  static void main(String[] args) {
         List<String> test = new ArrayList<String>();
-        test.add(2);
+        //test.add(2);
     }
 
 
